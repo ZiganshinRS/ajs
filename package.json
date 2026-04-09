@@ -1,6 +1,6 @@
 {
   "name": "@ziganshinrs/ajs",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "",
   "homepage": "https://github.com/ZiganshinRS/ajs#readme",
   "bugs": {
@@ -19,7 +19,7 @@
     "build": "webpack --mode production"
   },
   "publishConfig": {
-    "registry":"https://npm.pkg.github.com/"
+    "registry": "https://npm.pkg.github.com/"
   },
   "devDependencies": {
     "@babel/cli": "^7.28.6",
@@ -30,5 +30,3 @@
     "webpack-cli": "^7.0.2"
   }
 }
-
-
